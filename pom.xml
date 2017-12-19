@@ -202,7 +202,4 @@
 			</plugins>
 		</pluginManagement>
 	</build>
-	<modules>
-		<module>?</module>
-	</modules>
 </project>
